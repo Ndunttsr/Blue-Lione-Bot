@@ -20,9 +20,7 @@
 - CHANGE BOT NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L67)
 
 
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-
-## ` BUILDPACKS`
+ 
 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
@@ -32,14 +30,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
   
 
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-
- 
- 
- 
- 
- 
- 
  
  
 # Install Manually 👇
@@ -51,7 +41,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Kaveeshasithum/DARK-NERO-BOT.git
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot.git
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -66,7 +56,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/NeroBot-MD4
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
 cd NeroBot-MD
 npm start
 ```
@@ -78,7 +68,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/NeroBot-MD4
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
 cd DarkNero-MD2
 npm start
 ```
@@ -86,4 +76,5 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+
+ 
